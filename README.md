@@ -8,7 +8,6 @@
 
 ## Overview
 
-EK -TEST
 The gsDesign2 package supports recent innovations group sequential clinical
 trial design including non-proportional hazards and graphical multiplicity
 control with group sequential design.
